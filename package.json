@@ -1,0 +1,16 @@
+{
+  "name": "maratona-discover-02-1.0.0",
+  "version": "1.0.0",
+  "description": "Job Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Iago G. Nunes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
